@@ -1,4 +1,4 @@
-# Data_Viz
+# Data Visualisations
 Examples of data visualizations
 
 ## Map showing locations of Digital Humanities Conferences 2011-2021
@@ -31,7 +31,7 @@ Circular bar charts created using coord_polar from _ggplot_ and _viridis_ colour
 
 ![Playtime](https://github.com/SaraJKerr/TidyTuesday/blob/master/Images/Average%20Playtime.jpeg)
 
-## Shiny app exploring nuclear explosions
+## Interactive Shiny app exploring nuclear explosions
 Nuclear explosions dataset from the _Stockholm International Peace Research Institute_. Shiny app with an interactive map showing locations, and a histogram showing the number of explosions per year. A drop down was included to allow users to drill down into the individual countries, and markers were coloured using the upper yield in kilotons, split at 20 kt (1st quartile), 330 kt (mean), and above 330 kt.
 
 ![Image of Nukes app](https://github.com/SaraJKerr/TidyTuesday/blob/master/Images/Image%20of%20Nukes%20app.jpeg)
