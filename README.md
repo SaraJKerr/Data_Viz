@@ -1,4 +1,4 @@
-# Data Visualisations
+# Data Visualizations
 Examples of data visualizations
 
 ## Map showing locations of Digital Humanities Conferences 2011-2021
